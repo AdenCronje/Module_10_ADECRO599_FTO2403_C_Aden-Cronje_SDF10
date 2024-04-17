@@ -20,4 +20,4 @@ Welcome to the [SDF10] API Learning Reflection! Through this exercise, you will 
 
 5. **Learning and Improvement**: Considering the key concepts and your practical experiences, identify one area related to APIs where you feel confident and one area where you see a need for improvement. What steps will you take to enhance your understanding and skills in the area you wish to improve?
 
-[For me watching youtube tutorials help me to makr a concept easier to understand and also doing practical examples.]
+[For me watching youtube tutorials help me to make a concept easier to understand and also doing practical examples.]
